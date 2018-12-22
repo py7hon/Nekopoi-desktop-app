@@ -1,0 +1,20 @@
+{
+  "name": "Nekopoi-desktop-app",
+  "version": "0.0.1",
+  "description": "hanya sebuah desktop app untuk nekopoi.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/py7hon/Nekopoi-desktop-app.git",
+  "keywords": [
+    "nekopoi",
+    "desktop",
+    "app"
+  ],
+  "author": "Iqbal Rifai",
+  "license": "LGPL-3.0",
+  "devDependencies": {
+    "electron": "~4.0.0"
+  }
+}
